@@ -1,0 +1,173 @@
+ * {
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+ }
+
+
+
+ body {
+    background-color: black;
+
+ }
+
+ nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 20px;
+
+
+ }
+
+
+ .nav-links ul li {
+    display: inline-block;
+    width: 50;
+    padding-right: 50px;
+    padding: 7px 18px;
+    position: relative;
+
+
+ }
+
+ .nav-links a {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+ }
+
+ .nav-links a:hover {
+    cursor: pointer;
+
+
+
+ }
+
+ #logo {
+    font-weight: 100;
+    color: white;
+    font-size: 18px;
+    font-weight: lighter;
+    border: 2px solid white;
+    padding: 10px 14px;
+    text-transform: uppercase;
+
+ }
+
+
+
+
+ .images {
+    flex-direction: row;
+    border-image-width: 60;
+ }
+
+ .images ul li {
+    display: inline-block;
+    flex-direction: column;
+ }
+
+
+ .home {
+    text-decoration: underline;
+    font-weight: bold;
+    padding: 20px;
+ }
+
+
+
+ .modern-interior {
+    display: flex;
+    gap: 130px;
+    margin-top: 160px;
+    color: white;
+    margin-left: 100px;
+    font-weight: lighter;
+
+
+ }
+
+
+ .modern {
+    font-size: 20px;
+    padding: 10px;
+    padding-left: 100px;
+    justify-content: none;
+
+ }
+
+
+
+ .Photo1 {
+    margin-top: -100px;
+ }
+
+
+
+ .main2 {
+    justify-content: flex;
+    gap: 10px;
+ }
+
+ .blog2 img {
+    border-radius: 50%;
+ }
+
+ .main2 {
+    background-color: black;
+    width: 290px;
+    height: 120px;
+    color: white;
+    position: absolute;
+    margin-left: 910px;
+    margin-top: -70px;
+    padding: 10px;
+    box-shadow: 10px;
+ }
+
+
+ p4 {
+    color: white;
+    margin-top: -40%;
+    font-size: 20px;
+ }
+
+ p5 {
+    font-weight: 10%;
+    font-size: 13px;
+ }
+
+
+ p6 {
+    color: white;
+    margin-top: -30%;
+    padding: 5px;
+
+ }
+
+
+ p {
+    font-weight: lighter;
+ }
+
+ p3 {
+    font-size: 14px;
+    font-weight: bold;
+ }
+
+ .designer {
+    font-size: 20px;
+    padding: 7px;
+
+ }
+
+
+ .main3 {
+    display: flex;
+ }
+
+ .webber {
+    padding: 10px;
+    top: 20px;
+ }
